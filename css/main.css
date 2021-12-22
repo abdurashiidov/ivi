@@ -700,15 +700,15 @@ template {
   background-color: blueviolet;
 }
 
-.container-active_adds:hover {
-  background-color: yellow;
-  color: red;
-}
-
 .wrap__adds {
   padding-top: 5px;
   padding-bottom: 5px;
   width: 1200px;
+}
+
+.wrap__adds:hover {
+  background-color: white;
+  color: black;
 }
 
 .adds__link {
