@@ -509,6 +509,8 @@ template {
       -ms-grid-row-align: center;
       align-self: center;
   color: white;
+  border: 1px solid grey;
+  border-radius: 5px;
 }
 
 .header__profile:hover {
