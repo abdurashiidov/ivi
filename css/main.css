@@ -364,4 +364,8 @@ template {
 [hidden] {
   display: none;
 }
+
+.header {
+  margin-top: 10px;
+}
 /*# sourceMappingURL=main.css.map */
