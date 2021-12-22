@@ -557,5 +557,14 @@ template {
   .header__link {
     margin-right: 20px;
   }
+  .hamburger-btn {
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 1048px) {
+  .header__profile {
+    margin-right: 430px;
+  }
 }
 /*# sourceMappingURL=main.css.map */

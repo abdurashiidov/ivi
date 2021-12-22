@@ -161,4 +161,13 @@
     .header__link{
         margin-right: 20px;
     }
+    .hamburger-btn{
+        display: block;
+    }
 }  // ! 1056
+
+@media only screen and (max-width: 1048px){
+    .header__profile{
+        margin-right: 430px;
+    }
+}
