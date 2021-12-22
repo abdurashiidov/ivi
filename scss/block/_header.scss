@@ -29,6 +29,10 @@
 
         &__items{
             display: flex;
+
+            &__link{
+                text-decoration: none;
+            }
         }
     }
 }
