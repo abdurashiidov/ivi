@@ -662,6 +662,14 @@ template {
   }
 }
 
+body {
+  background-color: #100E19;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 .home-slick {
   max-width: 1230px;
   border-radius: 10px;
