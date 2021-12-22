@@ -628,5 +628,18 @@ template {
   .header__profile {
     margin-right: 10px;
   }
+  .header__search {
+    font-size: 15px;
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 460px) {
+  .header__link {
+    height: 50px;
+  }
+  .header__button {
+    margin-right: 10px;
+  }
 }
 /*# sourceMappingURL=main.css.map */
