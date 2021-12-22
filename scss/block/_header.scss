@@ -82,13 +82,17 @@
         font-family: "Arial", sans-serif;
         font-weight: bold;
         margin-right: 20px;
-        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: #fff;
 
         &:hover{
-            color: white;
+            color: black;
             transition: 0.5s;
             cursor: pointer;
+        }
+        &:active{
+            color: red;
+            -webkit-text-stroke-width: 2px;
         }
     }
 
