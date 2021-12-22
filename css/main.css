@@ -443,5 +443,7 @@ template {
 
 .header__button {
   color: white;
+  background-color: #EA003D;
+  border: none;
 }
 /*# sourceMappingURL=main.css.map */
