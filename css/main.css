@@ -688,6 +688,7 @@ body {
 
 .wrap__carousel {
   margin: 0 auto;
+  border-radius: 20px;
 }
 
 .container-carousel {
