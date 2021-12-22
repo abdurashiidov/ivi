@@ -377,6 +377,7 @@ template {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .header__wrap_left {
