@@ -1,19 +1,24 @@
-body{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: #100E19;
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  // background-color: #100E19;
+  background: #3609ff;
 
 }
-* ::after, *::before{
-            box-sizing: inherit;
+
+* ::after,
+*::before {
+  box-sizing: inherit;
 }
-.container{
-    max-width: 1230px;
-    margin: 0 auto;
-    padding: 0 10px;
+
+.container {
+  max-width: 1230px;
+  margin: 0 auto;
+  padding: 0 10px;
 }
-img{
+
+img {
   max-width: 100%;
   height: auto;
 }

@@ -3,10 +3,11 @@ body {
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  background-color: #100E19;
+  background: #3609ff;
 }
 
-* ::after, *::before {
+* ::after,
+*::before {
   -webkit-box-sizing: inherit;
           box-sizing: inherit;
 }
