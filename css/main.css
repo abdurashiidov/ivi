@@ -546,6 +546,7 @@ template {
 }
 
 .hamburger-modal {
+  display: none;
   background-color: grey;
   position: absolute;
   width: 80%;
