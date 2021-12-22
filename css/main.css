@@ -372,6 +372,9 @@ template {
   display: flex;
   border-bottom: 1px solid white;
   border-radius: 5px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 .header__wrap_left {
