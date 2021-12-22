@@ -432,12 +432,13 @@ template {
 
 .header__list__items__link:focus {
   border-bottom: 1px solid #ffffff;
+  border-radius: 5px;
 }
 
 .header__list__items__link:hover {
   color: white;
-  -webkit-transition: 0.5s ease;
-  transition: 0.5s ease;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
 }
 
 .header__wrap_right {
@@ -478,5 +479,6 @@ template {
   color: white;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  cursor: pointer;
 }
 /*# sourceMappingURL=main.css.map */
