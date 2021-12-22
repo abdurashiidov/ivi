@@ -550,6 +550,14 @@ template {
   .header__profile {
     margin-right: 100px;
   }
+  .header__wrap_right {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
   .header__list {
     display: none;
   }
