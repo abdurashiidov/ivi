@@ -540,6 +540,9 @@ template {
   .header__button {
     margin-right: 50px;
   }
+  .header__search {
+    margin-right: 50px;
+  }
   .header__list {
     display: none;
   }
