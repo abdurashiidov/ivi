@@ -406,4 +406,10 @@ template {
           justify-content: space-between;
   list-style-type: none;
 }
+
+.header__list__items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
