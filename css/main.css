@@ -371,7 +371,7 @@ template {
   display: -ms-flexbox;
   display: flex;
   border-bottom: 1px solid white;
-  border-radius: 5px;
+  border-radius: 3px;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
