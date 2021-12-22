@@ -379,4 +379,8 @@ template {
   display: -ms-flexbox;
   display: flex;
 }
+
+.header__link {
+  text-decoration: none;
+}
 /*# sourceMappingURL=main.css.map */
