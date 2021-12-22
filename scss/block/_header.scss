@@ -122,6 +122,13 @@
         }
     }
 }
+.hamburger-btn{
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    align-self: center;
+}
 
 @media only screen and (max-width: 1056px){
     .header{
