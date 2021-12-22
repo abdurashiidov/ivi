@@ -382,6 +382,9 @@ template {
 
 .header__link {
   border-radius: 20px;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 }
 
 .header__link__logo {
@@ -394,6 +397,9 @@ template {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  width: 800px;
+  width: 500px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 /*# sourceMappingURL=main.css.map */
