@@ -452,4 +452,8 @@ template {
   padding-right: 15px;
   padding-left: 15px;
 }
+
+.header__search {
+  color: grey;
+}
 /*# sourceMappingURL=main.css.map */
