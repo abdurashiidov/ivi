@@ -526,6 +526,7 @@ template {
 }
 
 .hamburger-btn {
+  display: none;
   background-color: transparent;
   border: none;
   color: white;
