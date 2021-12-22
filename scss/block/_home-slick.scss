@@ -35,15 +35,15 @@
     padding: 0 10px; 
     border-radius: 20px;
     background-color: blueviolet;
-}
-.wrap__adds{
     padding-top: 5px;
     padding-bottom: 5px;
-    width: 1200px;
     &:hover{
         background-color: rgb(255, 255, 255);
         color: rgb(0, 0, 0);
     }
+}
+.wrap__adds{
+    width: 1200px;
 }
 .adds__link{
     padding-left: 500px;

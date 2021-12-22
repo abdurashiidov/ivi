@@ -698,17 +698,17 @@ template {
   padding: 0 10px;
   border-radius: 20px;
   background-color: blueviolet;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.container-active_adds:hover {
+  background-color: white;
+  color: black;
 }
 
 .wrap__adds {
-  padding-top: 5px;
-  padding-bottom: 5px;
   width: 1200px;
-}
-
-.wrap__adds:hover {
-  background-color: white;
-  color: black;
 }
 
 .adds__link {
