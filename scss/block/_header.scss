@@ -36,6 +36,10 @@
                 text-decoration: none;
                 color: grey;
                 font-weight: bold;
+
+                &:hover{
+                    color: white;
+                }
             }
         }
     }

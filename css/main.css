@@ -422,4 +422,8 @@ template {
   color: grey;
   font-weight: bold;
 }
+
+.header__list__items__link:hover {
+  color: white;
+}
 /*# sourceMappingURL=main.css.map */
