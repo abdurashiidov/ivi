@@ -75,5 +75,11 @@
         color: grey;
         align-self: center;
         font-family: "Arial", sans-serif;
+        font-weight: bold;
+
+        &:hover{
+            color: white;
+            transition: 0.5s;
+        }
     }
 }

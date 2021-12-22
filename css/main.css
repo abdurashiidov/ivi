@@ -467,5 +467,12 @@ template {
       -ms-grid-row-align: center;
       align-self: center;
   font-family: "Arial", sans-serif;
+  font-weight: bold;
+}
+
+.header__search:hover {
+  color: white;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 /*# sourceMappingURL=main.css.map */
