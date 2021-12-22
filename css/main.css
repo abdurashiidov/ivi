@@ -692,11 +692,11 @@ template {
 }
 
 .container-active_adds {
-  max-width: 1230px;
+  max-width: 1220px;
   margin: 0 auto;
   padding: 0 10px;
   border-radius: 20px;
-  margin: 0 auto;
+  background-color: blueviolet;
 }
 
 .wrap__adds {
