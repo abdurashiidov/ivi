@@ -382,5 +382,6 @@ template {
 
 .header__link {
   text-decoration: none;
+  border-radius: 50%;
 }
 /*# sourceMappingURL=main.css.map */
