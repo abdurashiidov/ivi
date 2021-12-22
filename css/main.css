@@ -523,8 +523,9 @@ template {
 
 @media only screen and (max-width: 1056px) {
   .header {
-    -ms-flex-pack: distribute;
-        justify-content: space-around;
+    -webkit-box-pack: left;
+        -ms-flex-pack: left;
+            justify-content: left;
   }
   .header__list {
     display: none;
