@@ -660,4 +660,8 @@ template {
     margin-right: 10px;
   }
 }
+
+.home-slick {
+  max-width: 1230px;
+}
 /*# sourceMappingURL=main.css.map */
