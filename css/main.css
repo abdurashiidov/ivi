@@ -414,6 +414,9 @@ template {
 }
 
 .header__list__items__link {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
   font-family: "Arial";
   text-decoration: none;
 }
