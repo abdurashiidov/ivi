@@ -404,5 +404,6 @@ template {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  list-style-type: none;
 }
 /*# sourceMappingURL=main.css.map */
