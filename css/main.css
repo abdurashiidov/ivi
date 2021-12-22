@@ -617,6 +617,10 @@ template {
 }
 
 @media only screen and (max-width: 638px) {
+  .header__link {
+    width: 50px;
+    height: 50px;
+  }
   .header__profile {
     margin-right: 10px;
   }
