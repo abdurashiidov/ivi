@@ -391,6 +391,9 @@ template {
   border-radius: 5px;
   width: 60px;
   height: 40px;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 }
 
 .header__list {
