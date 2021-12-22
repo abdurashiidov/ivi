@@ -386,5 +386,7 @@ template {
 
 .header__link__logo {
   border-radius: 5px;
+  width: 60px;
+  height: 40px;
 }
 /*# sourceMappingURL=main.css.map */
