@@ -623,6 +623,7 @@ template {
   }
   .header__button {
     font-size: 10px;
+    padding: 3px;
   }
   .header__profile {
     margin-right: 10px;
