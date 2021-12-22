@@ -373,4 +373,10 @@ template {
   border-bottom: 1px solid white;
   border-radius: 5px;
 }
+
+.header__wrap_left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
