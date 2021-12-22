@@ -497,6 +497,10 @@ template {
 .header__bell:hover {
   color: white;
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: #000;
+  -webkit-text-stroke-color: red;
+}
+
+.header__bell:active {
+  color: black;
 }
 /*# sourceMappingURL=main.css.map */
