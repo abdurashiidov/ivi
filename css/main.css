@@ -537,6 +537,9 @@ template {
         -ms-flex-pack: left;
             justify-content: left;
   }
+  .header__button {
+    margin-right: 50px;
+  }
   .header__list {
     display: none;
   }
