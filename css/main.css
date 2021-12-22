@@ -545,6 +545,10 @@ template {
       align-self: center;
 }
 
+.hamburger-modal {
+  display: none;
+}
+
 @media only screen and (max-width: 1056px) {
   .header {
     -webkit-box-pack: left;
