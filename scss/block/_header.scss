@@ -96,5 +96,12 @@
         -webkit-text-stroke-width: 2px;
         -webkit-text-stroke-color: #fff;
         align-self: center;
+        margin-right: 20px;
+
+        &:hover{
+            color: white;
+            -webkit-text-stroke-width: 2px;
+            -webkit-text-stroke-color: #000;
+        }
     }
 }
