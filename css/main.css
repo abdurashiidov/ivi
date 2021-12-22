@@ -624,6 +624,7 @@ template {
   .header__button {
     font-size: 10px;
     padding: 3px;
+    padding-top: -10px;
   }
   .header__profile {
     margin-right: 10px;
