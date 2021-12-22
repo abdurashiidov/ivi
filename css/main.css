@@ -511,6 +511,7 @@ template {
   color: white;
   border: 1px solid grey;
   border-radius: 5px;
+  padding: 10px;
 }
 
 .header__profile:hover {
