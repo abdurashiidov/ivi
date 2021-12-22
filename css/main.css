@@ -483,11 +483,12 @@ template {
   -webkit-transition: 0.5s;
   transition: 0.5s;
   cursor: pointer;
+  -webkit-text-stroke-color: red;
 }
 
 .header__search:active {
-  color: red;
-  -webkit-text-stroke-width: 2px;
+  color: white;
+  -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: red;
 }
 

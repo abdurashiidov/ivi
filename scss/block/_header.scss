@@ -89,10 +89,11 @@
             color: black;
             transition: 0.5s;
             cursor: pointer;
+            -webkit-text-stroke-color: red;
         }
         &:active{
-            color: red;
-            -webkit-text-stroke-width: 2px;
+            color: white;
+            -webkit-text-stroke-width: 1px;
             -webkit-text-stroke-color: red;
         }
     }
@@ -255,3 +256,7 @@
         margin-right: 10px;
     }
 } //! 460
+
+@media only screen and (max-width: 347px){
+    
+} //! 347
