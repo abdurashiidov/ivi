@@ -93,5 +93,8 @@
     &__bell{
         text-decoration: none;
         color: black;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: #fff;
+        align-self: center;
     }
 }

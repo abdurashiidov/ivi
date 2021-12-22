@@ -486,5 +486,10 @@ template {
 .header__bell {
   text-decoration: none;
   color: black;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #fff;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 }
 /*# sourceMappingURL=main.css.map */
