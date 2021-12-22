@@ -1,11 +1,16 @@
 .home-slick{
     max-width: 1230px;
     border-radius: 10px;
+    // margin: 0 auto;
     
     &__img{
-        width: 1000px;
+        width: 600px;
         border-radius: 20px;
         overflow: hidden;
         
     }
+}
+.home-slick__link__img{
+    width: 1000px;
+    border-radius: 20px;
 }

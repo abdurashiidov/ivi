@@ -4,6 +4,7 @@ body {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   background-color: #100E19;
+  overflow-x: hidden;
 }
 
 * ::after, *::before {
@@ -667,8 +668,13 @@ template {
 }
 
 .home-slick__img {
-  width: 1000px;
+  width: 600px;
   border-radius: 20px;
   overflow: hidden;
+}
+
+.home-slick__link__img {
+  width: 1000px;
+  border-radius: 20px;
 }
 /*# sourceMappingURL=main.css.map */
