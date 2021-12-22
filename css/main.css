@@ -705,6 +705,8 @@ template {
 .container-active_adds:hover {
   background-color: white;
   color: black;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 
 .wrap__adds {
@@ -713,7 +715,7 @@ template {
 
 .adds__link {
   padding-left: 500px;
-  color: white;
+  color: black;
   text-decoration: none;
   font-weight: bold;
 }

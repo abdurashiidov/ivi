@@ -40,6 +40,7 @@
     &:hover{
         background-color: rgb(255, 255, 255);
         color: rgb(0, 0, 0);
+        transition: 1s;
     }
 }
 .wrap__adds{
@@ -47,7 +48,7 @@
 }
 .adds__link{
     padding-left: 500px;
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-weight: bold;
 
