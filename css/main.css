@@ -681,4 +681,10 @@ template {
 .wrap__carousel {
   margin: 0 auto;
 }
+
+.container-carousel {
+  max-width: 1230px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
 /*# sourceMappingURL=main.css.map */
