@@ -530,5 +530,8 @@ template {
   .header__list {
     display: none;
   }
+  .header__link {
+    margin-right: 20px;
+  }
 }
 /*# sourceMappingURL=main.css.map */
