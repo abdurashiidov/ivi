@@ -705,12 +705,8 @@ template {
 .container-active_adds:hover {
   background-color: white;
   color: black;
-  -webkit-transition: 1s;
-  transition: 1s;
-}
-
-.wrap__adds {
-  width: 1200px;
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
 }
 
 .adds__link {
