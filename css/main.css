@@ -430,6 +430,10 @@ template {
   font-weight: bold;
 }
 
+.header__list__items__link:focus {
+  border-bottom: 1px solid #ffffff;
+}
+
 .header__list__items__link:hover {
   color: white;
   -webkit-transition: 0.5s ease;
