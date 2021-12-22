@@ -381,11 +381,10 @@ template {
 }
 
 .header__link {
-  text-decoration: none;
   border-radius: 20px;
 }
 
 .header__link__logo {
-  border-radius: 10px;
+  border-radius: 5px;
 }
 /*# sourceMappingURL=main.css.map */
