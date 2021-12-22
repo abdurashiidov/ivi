@@ -550,6 +550,7 @@ template {
     -webkit-box-pack: left;
         -ms-flex-pack: left;
             justify-content: left;
+    border: none;
   }
   .header__button {
     margin-right: 30px;
