@@ -451,9 +451,13 @@ template {
   font-weight: bold;
   padding-right: 15px;
   padding-left: 15px;
+  margin-right: 10px;
 }
 
 .header__search {
   color: grey;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 }
 /*# sourceMappingURL=main.css.map */
