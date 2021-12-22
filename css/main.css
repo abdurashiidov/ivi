@@ -548,8 +548,8 @@ template {
 .hamburger-modal {
   background-color: grey;
   position: absolute;
-  width: 90%;
-  height: 100hv;
+  width: 80%;
+  height: 98%;
 }
 
 @media only screen and (max-width: 1056px) {
