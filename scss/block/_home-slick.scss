@@ -1,7 +1,6 @@
 .home-slick{
     max-width: 1230px;
     border-radius: 10px;
-    margin-bottom: 50px;
     
     &__img{
         width: 600px;
@@ -15,17 +14,18 @@
     border-radius: 20px;
 }
 // .active_class{
-//     margin: 0 auto;
-// }
-.wrap__carousel{
-    margin: 0 auto;
-    border-radius: 20px;
-}
-.container-carousel{
-    max-width: 1230px;
-    margin: 0 auto;
-    padding: 0 10px; 
-    border-radius: 20px;
+    //     margin: 0 auto;
+    // }
+    .wrap__carousel{
+        margin: 0 auto;
+        border-radius: 20px;
+    }
+    .container-carousel{
+        max-width: 1230px;
+        margin: 0 auto;
+        padding: 0 10px; 
+        border-radius: 20px;
+        margin-bottom: 50px;
 }
 
 
