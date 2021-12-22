@@ -367,5 +367,8 @@ template {
 
 .header {
   margin-top: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 /*# sourceMappingURL=main.css.map */
