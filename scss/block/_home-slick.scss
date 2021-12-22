@@ -35,6 +35,10 @@
     padding: 0 10px; 
     border-radius: 20px;
     background-color: blueviolet;
+    &:hover{
+        background-color: yellow;
+        color: red;
+    }
 }
 .wrap__adds{
     padding-top: 5px;
@@ -46,6 +50,7 @@
     color: white;
     text-decoration: none;
     font-weight: bold;
+
 }
 
 
