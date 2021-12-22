@@ -384,4 +384,8 @@ template {
   text-decoration: none;
   border-radius: 20px;
 }
+
+.header__link__logo {
+  border-radius: 10px;
+}
 /*# sourceMappingURL=main.css.map */
