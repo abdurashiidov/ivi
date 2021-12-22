@@ -440,4 +440,8 @@ template {
   display: -ms-flexbox;
   display: flex;
 }
+
+.header__button {
+  color: white;
+}
 /*# sourceMappingURL=main.css.map */
