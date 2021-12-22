@@ -482,4 +482,9 @@ template {
   transition: 0.5s;
   cursor: pointer;
 }
+
+.header__bell {
+  text-decoration: none;
+  color: black;
+}
 /*# sourceMappingURL=main.css.map */
