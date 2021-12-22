@@ -708,5 +708,7 @@ template {
   color: white;
   text-decoration: none;
   font-weight: bold;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 /*# sourceMappingURL=main.css.map */
