@@ -375,6 +375,7 @@ template {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  padding-bottom: 10px;
 }
 
 .header__wrap_left {
