@@ -496,7 +496,7 @@ template {
 
 .header__bell:hover {
   color: white;
-  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: red;
 }
 
@@ -508,6 +508,16 @@ template {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
+  color: white;
+}
+
+.header__profile:hover {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: red;
+  color: black;
+}
+
+.header__profile:active {
   color: white;
 }
 /*# sourceMappingURL=main.css.map */

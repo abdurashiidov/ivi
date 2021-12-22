@@ -100,7 +100,7 @@
 
         &:hover{
             color: white;
-            -webkit-text-stroke-width: 2px;
+            -webkit-text-stroke-width: 1px;
             -webkit-text-stroke-color: rgb(255, 0, 0);
         }
         &:active{
@@ -111,5 +111,14 @@
     &__profile{
         align-self: center;
         color: white;
+
+        &:hover{
+            -webkit-text-stroke-width: 1px;
+            -webkit-text-stroke-color: rgb(255, 0, 0);
+            color: black;
+        }
+        &:active{
+            color: white;
+        }
     }
 }
