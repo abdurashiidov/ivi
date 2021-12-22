@@ -64,6 +64,12 @@
         padding-left: 15px;
         // align-self: center;
         margin-right: 16px;
+
+        &:hover{
+            color: black;
+            background-color: white;
+            transition: 0.5s ;
+        }
     }
     &__search{
         color: grey;

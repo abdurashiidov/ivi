@@ -454,6 +454,13 @@ template {
   margin-right: 16px;
 }
 
+.header__button:hover {
+  color: black;
+  background-color: white;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
 .header__search {
   color: grey;
   -ms-flex-item-align: center;
