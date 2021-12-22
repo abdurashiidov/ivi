@@ -521,7 +521,12 @@ template {
   color: white;
 }
 
-@media only screen and (max-width: 1054px) {
+@media only screen and (max-width: 1056px) {
+  .header {
+    -webkit-box-pack: none;
+        -ms-flex-pack: none;
+            justify-content: none;
+  }
   .header__list {
     display: none;
   }

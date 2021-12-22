@@ -123,7 +123,10 @@
     }
 }
 
-@media only screen and (max-width: 1054px){
+@media only screen and (max-width: 1056px){
+    .header{
+        justify-content: none;
+    }
     .header__list{
         display: none;
     }
