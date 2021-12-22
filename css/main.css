@@ -394,5 +394,6 @@ template {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  width: 800px;
 }
 /*# sourceMappingURL=main.css.map */
