@@ -666,6 +666,7 @@ template {
 .home-slick {
   max-width: 1230px;
   border-radius: 10px;
+  margin-bottom: 50px;
 }
 
 .home-slick__img {
@@ -700,6 +701,8 @@ template {
 }
 
 .wrap__adds {
+  padding-top: 5px;
+  padding-bottom: 5px;
   width: 1200px;
 }
 
@@ -708,7 +711,5 @@ template {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  padding-top: 5px;
-  padding-bottom: 5px;
 }
 /*# sourceMappingURL=main.css.map */
