@@ -563,8 +563,62 @@ template {
 }
 
 @media only screen and (max-width: 1048px) {
+  .header {
+    border: none;
+  }
   .header__profile {
     margin-right: 400px;
+  }
+}
+
+@media only screen and (max-width: 1018px) {
+  .header__profile {
+    margin-right: 350px;
+  }
+}
+
+@media only screen and (max-width: 969px) {
+  .header__profile {
+    margin-right: 300px;
+  }
+}
+
+@media only screen and (max-width: 918px) {
+  .header__profile {
+    margin-right: 250px;
+  }
+}
+
+@media only screen and (max-width: 868px) {
+  .header__profile {
+    margin-right: 200px;
+  }
+}
+
+@media only screen and (max-width: 818px) {
+  .header__profile {
+    margin-right: 100px;
+  }
+  .header {
+    border: none;
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  .header__profile {
+    margin-right: 50px;
+  }
+}
+
+@media only screen and (max-width: 670px) {
+  .header__profile {
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 638px) {
+  .header__profile {
+    margin-right: 10px;
   }
 }
 /*# sourceMappingURL=main.css.map */
