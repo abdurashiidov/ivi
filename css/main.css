@@ -394,6 +394,7 @@ template {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
       align-self: center;
+  margin-right: 15px;
 }
 
 .header__list {
@@ -405,6 +406,8 @@ template {
       -ms-flex-pack: justify;
           justify-content: space-between;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .header__list__items {
@@ -425,5 +428,7 @@ template {
 
 .header__list__items__link:hover {
   color: white;
+  -webkit-transition: 0.5s ease;
+  transition: 0.5s ease;
 }
 /*# sourceMappingURL=main.css.map */
