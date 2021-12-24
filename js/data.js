@@ -94,8 +94,8 @@ var cartoons = [
     "id": 14,
     "title": "Pokémon",
     "year": "1997",
-    "summary": "",
-    "image": ""
+    "summary": "Pokémon abbreviated from the Japanese title of Pocket Monsters and currently advertised in English as Pokémon the Series, is a Japanese anime television series, part of The Pokémon Company's Pokémon media franchise, which began broadcast in Japan on TV Tokyo in April 1997.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5AL-8-Zgoa5wwW143ejlKq5URVQU28wQEgLihqAQm2WKe8-Q9ONbG-nlCT6LAGp8CQTM&usqp=CAU"
     },    
     
 ]
