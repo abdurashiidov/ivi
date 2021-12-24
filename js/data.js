@@ -55,6 +55,12 @@ var cartoons = [
     "summary": "SpongeBob SquarePants (also simply referred to as SpongeBob) is an American animated comedy television series created by marine science educator and animator Stephen Hillenburg for Nickelodeon.",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/1200px-SpongeBob_SquarePants_character.svg.png"
     },
-   
+    {
+    "id": 9,
+    "title": "",
+    "year": "",
+    "summary": "",
+    "image": ""
+    },   
 ]
 
