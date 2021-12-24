@@ -71,7 +71,7 @@ var cartoons = [
     },    
     {
     "id": 11,
-    "title": "",
+    "title": "The Lion King",
     "year": "",
     "summary": "",
     "image": ""
