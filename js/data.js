@@ -41,7 +41,7 @@ var cartoons = [
     },
     {
     "title": "",
-    "year": "",
+    "year": "", 
     "summary": "",
     "image": ""
     },
