@@ -49,7 +49,8 @@ var cartoons = [
     "image": ""
     },    
     {
-    "id": ,
+    {
+    "id": 8,
     "title": "",
     "year": "",
     "summary": "",
