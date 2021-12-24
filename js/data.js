@@ -99,10 +99,80 @@ var cartoons = [
     },    
     {
     "id": 15,
-    "title": "",
-    "year": "",
-    "summary": "",
+    "title": "Toy Story",
+    "year": "1995",
+    "summary": "Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The first installment in the Toy Story franchise, it was the first entirely computer-animated feature film, as well as the first feature film from Pixar.",
     "image": "https://2l7g9kgsh281akevs49v281d-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/toy-story-4-1174922-1280x0-1132x670.jpg"
     },    
+    {
+    "id": 16,
+    "title": "Ratatouille",
+    "year": "2007",
+    "summary": "Ratatouille is a 2007 American computer-animated comedy film produced by Pixar and released by Walt Disney Pictures. It was the eighth film produced by Pixar and was written and directed by Brad Bird, who took over from Jan Pinkava in 2005, and produced by Brad Lewis, from an original idea from Bird, Pinkava and Jim Capobianco.",
+    "image": "https://media.karousell.com/media/photos/products/2017/11/02/vcd_ratatouille_1509615362_5ee1c2fa.jpg"
+    },    
+    {
+    "id": 17,
+    "title": "Popeye",
+    "year": "1929",
+    "summary": "Popeye the Sailor Man is a fictional cartoon character created by Elzie Crisler Segar. The character first appeared in the daily King Features comic strip Thimble Theatre on January 17, 1929, and Popeye became the strip's title in later years. The character has also appeared in theatrical and television animated cartoons.",
+    "image": "https://i.ytimg.com/vi/I6zCpqigEcs/maxresdefault.jpg"
+    },    
+    {
+    "id": 18,
+    "title": "Madagascar",
+    "year": "2005 ",
+    "summary": "Madagascar is a 2005 American computer-animated comedy film produced by DreamWorks Animation and distributed by DreamWorks Pictures. It was directed by Eric Darnell and Tom McGrath (in McGrath's feature directorial debut) and written by Mark Burton, Billy Frolick, Darnell, and McGrath.",
+    "image": "https://wallpaperaccess.com/full/2329459.jpg"
+    },    
+    {
+    "id": 19,
+    "title": "Ice Age",
+    "year": "2002",
+    "summary": "Ice Age is a 2002 American computer-animated adventure comedy film produced by Blue Sky Studios (in its debut film) and distributed by 20th Century Fox.",
+    "image": "https://uz-films.com/wp-content/uploads/2018/04/unnamed-37.jpg"
+    },    
+    {
+    "id": 20,
+    "title": "Pink Panther",
+    "year": "1963",
+    "summary": "The Pink Panther is a fictional animated character who appeared in the opening and/or closing credit sequences of every film in The Pink Panther series except for A Shot in the Dark and Inspector Clouseau.",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/8/8d/The-Pink-Panther.jpg"
+    },   
+    {
+    "id": 21,
+    "title": "Looney Tunes",
+    "year": "2017",
+    "summary": "Looney Tunes Cartoons is an American animated television series developed by Peter Browngardt and produced by Warner Bros. Animation, based on the characters from Looney Tunes and Merrie Melodies.",
+    "image": "https://i.pinimg.com/originals/88/95/51/8895518046b091303ae85e4901b7bf9e.jpg"
+    },     
+    {
+    "id": 22,
+    "title": "Bernard",
+    "year": "2006",
+    "summary": "Bernard, known as Backkom (Hangul: 빼꼼) in South Korea and Berni in Spain, is a computer-animated television series produced by RG Animation Studios, with the investment of the French broadcaster M6.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fa/Bernard_Bear_Poster.jpg"
+    },    
+    {
+    "id": 23,
+    "title": "Kung Fu Panda",
+    "year": "2008",
+    "summary": "Kung Fu Panda is an American media franchise by DreamWorks Animation, consisting of three films: Kung Fu Panda (2008), Kung Fu Panda 2 (2011) and Kung Fu Panda 3 (2016).",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/d/da/Kung_Fu_Panda_characters.gif"
+    },    
+    {
+    "id": 24,
+    "title": "Zootopia",
+    "year": "2016",
+    "summary": "Zootopia (titled Zootropolis in various regions)[a] is a 2016 American computer-animated buddy cop film[6][7] produced by Walt Disney Animation Studios and released by Walt Disney Pictures.",
+    "image": "https://m.media-amazon.com/images/I/61vDWc2o1vL.jpg"
+    },
+    {
+    "id": 25,
+    "title": "The Boss Baby",
+    "year": "2017",
+    "summary": "The Boss Baby is a 2017 American computer-animated comedy film[4] produced by DreamWorks Animation and distributed by 20th Century Fox.",
+    "image": "https://static.wikia.nocookie.net/p__/images/e/e3/Boss_Babt.png/revision/latest?cb=20170324214321&path-prefix=protagonist"
+    },
 ]
 
