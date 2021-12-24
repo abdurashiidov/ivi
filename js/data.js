@@ -29,5 +29,11 @@ var cartoons = [
     "summary": "Tarzan is a 1999 American animated adventure film produced by Walt Disney Feature Animation for Walt Disney Pictures. The 37th Disney animated feature film, the tenth and last released during the Disney Renaissance era, it is based on the story Tarzan of the Apes by Edgar Rice Burroughs, being the first animated major motion picture version of the story.",
     "image": "https://i.pinimg.com/originals/68/ac/74/68ac74d34cc3d800a2bcf6cab69cc996.jpg"
     },
+    {
+    "title": "",
+    "year": "",
+    "summary": "",
+    "image": ""
+    }, 
 ]
 
