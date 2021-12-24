@@ -33,5 +33,11 @@ var cartoons = [
     "summary": "The Smurfs (French: Les Schtroumpfs; Dutch: De Smurfen) is a Belgian comic franchise centered on a fictional colony of small, blue, humanoid creatures who live in mushroom-shaped houses in the forest. The Smurfs was first created and introduced as a series of comic characters by the Belgian comics artist Peyo (the pen name of Pierre Culliford) in 1958, wherein they were known as Les Schtroumpfs.",
     "image": "https://zbk.ru/wp-content/uploads/2020/02/nu-pogodi-souyzmultfilm.jpg"
     },
+    {
+    "title": "",
+    "year": "",
+    "summary": "",
+    "image": ""
+    },
 ]
 
