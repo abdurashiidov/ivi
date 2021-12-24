@@ -81,7 +81,7 @@ var cartoons = [
     "title": "The Simpsons",
     "year": "1987",
     "summary": "The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company.[1][2][3] The series is a satirical depiction of American life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie.",
-    "image": ""
+    "image": "https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/2020-01-15-the-simpsons-alamy-860x573.jpg"
     },
 ]
 
