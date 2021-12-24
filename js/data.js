@@ -76,6 +76,12 @@ var cartoons = [
     "summary": "The Lion King is a 1994 American animated musical drama film[3] produced by Walt Disney Feature Animation and released by Walt Disney Pictures. It is the 32nd Disney animated feature film, and the fifth animated film produced during a period known as the Disney Renaissance.",
     "image": "https://media.vanityfair.com/photos/5d2f2de1466c6d000868d204/16:9/w_1280,c_limit/MSDLIKI_EC007.jpg"
     },
-
+    {
+    "id": 12,
+    "title": "The Simpsons",
+    "year": "",
+    "summary": "",
+    "image": ""
+    },
 ]
 
