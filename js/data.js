@@ -1,11 +1,13 @@
 var cartoons = [
     {
+    "id": 1,
     "title": "Ну, погоди!",
     "year": 1969,
     "summary": "«Ну, погоди́!» — популярная серия советских и российских мультфильмов. Пилотный выпуск был снят режиссёром Геннадием Сокольским, и вышел на экраны в 1969 г., в том же году вышел первый мультфильм основной серии. В основе сюжета лежит постоянно оканчивающаяся неудачей погоня Волка за Зайцем, после которой Заяц всегда оказывается невредим, а Волк говорит или кричит ему: «Ну, Заяц, ну, погоди!».",
     "image": "https://zbk.ru/wp-content/uploads/2020/02/nu-pogodi-souyzmultfilm.jpg"
     },
     {
+    "id": 1,
     "title": "Tom and Jerry",
     "year": 1940,
     "summary": "Cерия короткометражных мультфильмов, созданная американскими аниматорами Уильямом Ханной и Джозефом Барберой. В сюжетной линии каждой части изображено (с элементами лёгкой житейской сатиры) соперничество главных героев — кота Тома и мышонка Джерри[1]. Пилотный выпуск проекта «Кот получает пинка» вышел на экраны 20 марта 1940 года",
@@ -33,7 +35,13 @@ var cartoons = [
     "title": "Pinocchio",
     "year": "1940",
     "summary": "Pinocchio is an Italian fictional character and the protagonist of the children's novel The Adventures of Pinocchio (1883) by Italian writer Carlo Collodi of Florence, Tuscany.[2][3] Pinocchio was carved by a woodcarver named Geppetto in a Tuscan village. He was created as a wooden puppet but he dreams of becoming a real boy. He is notably characterized for his frequent tendency to lie, which causes his nose to grow.",
-    "image": ""
+    "image": "https://mult-online.ru/posters/260_347_90_1/uploads/posts/2011-04/thumbs/1302681046_pinokkio.gif"
     }, 
+    {
+    "title": "",
+    "year": "",
+    "summary": "",
+    "image": ""
+    },    
 ]
 
