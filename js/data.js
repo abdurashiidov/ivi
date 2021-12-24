@@ -85,9 +85,9 @@ var cartoons = [
     },
     {
     "id": 13,
-    "title": "",
-    "year": "",
-    "summary": "",
+    "title": "Shrek",
+    "year": "2001",
+    "summary": "Shrek is a 2001 American computer-animated comedy film loosely based on the 1990 fairy tale picture book of the same name by William Steig. Directed by Andrew Adamson and Vicky Jenson in their directorial debuts, it stars Mike Myers, Eddie Murphy, Cameron Diaz, and John Lithgow as the voices of the lead characters.",
     "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/3/39/Shrek.jpg/640px-Shrek.jpg"
     },    
 ]
