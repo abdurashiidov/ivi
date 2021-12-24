@@ -92,8 +92,8 @@ var cartoons = [
     },
     {
     "id": 14,
-    "title": "",
-    "year": "",
+    "title": "Pokémon",
+    "year": "1997",
     "summary": "",
     "image": ""
     },    
