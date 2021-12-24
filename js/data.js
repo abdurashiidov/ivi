@@ -66,7 +66,7 @@ var cartoons = [
     "id": 10,
     "title": "Phineas and Ferb",
     "year": "2007",
-    "summary": "",
+    "summary": "Povenmire and Marsh had previously worked together on Fox's The Simpsons and Nickelodeon's Rocko's Modern Life. The creators also voice two of the main B-plot characters, Dr. Doofenshmirtz and Major Monogram.",
     "image": ""
     },    
 ]
