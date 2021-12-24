@@ -42,6 +42,7 @@ var cartoons = [
     "image": "https://mult-online.ru/posters/260_347_90_1/uploads/posts/2011-04/thumbs/1302681046_pinokkio.gif"
     }, 
     {
+    "id": 7,        
     "title": "",
     "year": "",
     "summary": "",
