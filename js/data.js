@@ -45,7 +45,7 @@ var cartoons = [
     "id": 7,        
     "title": "Mickey Mouse",
     "year": "1928",
-    "summary": "",
+    "summary": "Mickey Mouse is a cartoon character created in 1928 by Walt Disney, and is the mascot of The Walt Disney Company. An anthropomorphic mouse who typically wears red shorts, large yellow shoes, and white gloves, Mickey is one of the world's most recognizable fictional characters.",
     "image": ""
     },    
     {
