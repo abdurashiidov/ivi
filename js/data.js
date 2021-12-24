@@ -1,19 +1,3 @@
-var movies = [{
-    "title": "Patton Oswalt: Annihilation",
-    "year": 2017,
-    "categories": [
-        "Uncategorized"
-    ],
-    "imdbId": "tt7026230",
-    "imdbRating": 7.4,
-    "runtime": 66,
-    "language": "English",
-    "youtubeId": "4hZi5QaMBFc",
-    "summary": "Patton Oswald, despite a personal tragedy, produces his best standup yet. Focusing on the tribulations of the Trump era and life after the loss of a loved one, Patton Oswald continues his journey to contribute joy to the world.",
-    "smallThumbnail": "http://i3.ytimg.com/vi/4hZi5QaMBFc/hqdefault.jpg",
-    "bigThumbnail": "http://i3.ytimg.com/vi/4hZi5QaMBFc/maxresdefault.jpg"
-}]
-
 var cartoons = [
     {
     "title": "Ну, погоди!",
