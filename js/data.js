@@ -30,9 +30,9 @@ var cartoons = [
     "image": "https://i.pinimg.com/originals/68/ac/74/68ac74d34cc3d800a2bcf6cab69cc996.jpg"
     },
     {
-    "title": "",
+    "title": "Pinocchio",
     "year": "",
-    "summary": "",
+    "summary": "Pinocchio (/pɪˈnoʊkioʊ/,[1] Italian: [piˈnɔkkjo]) is an Italian fictional character and the protagonist of the children's novel The Adventures of Pinocchio (1883) by Italian writer Carlo Collodi of Florence, Tuscany.[2][3] Pinocchio was carved by a woodcarver named Geppetto in a Tuscan village. He was created as a wooden puppet but he dreams of becoming a real boy. He is notably characterized for his frequent tendency to lie, which causes his nose to grow.",
     "image": ""
     }, 
 ]
