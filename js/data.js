@@ -73,14 +73,14 @@ var cartoons = [
     "id": 11,
     "title": "The Lion King",
     "year": "1994",
-    "summary": "The Lion King is a 1994 American animated musical drama film[3] produced by Walt Disney Feature Animation and released by Walt Disney Pictures. It is the 32nd Disney animated feature film, and the fifth animated film produced during a period known as the Disney Renaissance.",
+    "summary": "The Lion King is a 1994 American animated musical drama film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. It is the 32nd Disney animated feature film, and the fifth animated film produced during a period known as the Disney Renaissance.",
     "image": "https://media.vanityfair.com/photos/5d2f2de1466c6d000868d204/16:9/w_1280,c_limit/MSDLIKI_EC007.jpg"
     },
     {
     "id": 12,
     "title": "The Simpsons",
     "year": "1987",
-    "summary": "The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company.[1][2][3] The series is a satirical depiction of American life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie.",
+    "summary": "The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company. The series is a satirical depiction of American life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie.",
     "image": "https://www.saturdayeveningpost.com/wp-content/uploads/satevepost/2020-01-15-the-simpsons-alamy-860x573.jpg"
     },
 ]
