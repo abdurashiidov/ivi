@@ -57,7 +57,7 @@ var cartoons = [
     },
     {
     "id": 9,
-    "title": "",
+    "title": "Kid vs Kat",
     "year": "",
     "summary": "",
     "image": ""
