@@ -79,8 +79,8 @@ var cartoons = [
     {
     "id": 12,
     "title": "The Simpsons",
-    "year": "",
-    "summary": "",
+    "year": "1987",
+    "summary": "The Simpsons is an American animated sitcom created by Matt Groening for the Fox Broadcasting Company.[1][2][3] The series is a satirical depiction of American life, epitomized by the Simpson family, which consists of Homer, Marge, Bart, Lisa, and Maggie.",
     "image": ""
     },
 ]
