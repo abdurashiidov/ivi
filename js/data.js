@@ -59,7 +59,7 @@ var cartoons = [
     "id": 9,
     "title": "Kid vs Kat",
     "year": "2008",
-    "summary": "Kid vs. Kat (stylized KiD vs KaT) is a Canadian animated television series that originally aired on YTV in Canada from October 25, 2008, to June 4, 2011.[2] The series was created and co-directed by Rob Boutilier, developed and produced at Studio B Productions, in association with YTV and Jetix Europe for its first season[1] and Disney XD for its second season.[3] 52 episodes were produced.[4]",
+    "summary": "Kid vs. Kat is a Canadian animated television series that originally aired on YTV in Canada from October 25, 2008, to June 4, 2011.[2] The series was created and co-directed by Rob Boutilier, developed and produced at Studio B Productions, in association with YTV and Jetix Europe for its first season[1] and Disney XD for its second season.[3] 52 episodes were produced.[4]",
     "image": ""
     },   
 ]
